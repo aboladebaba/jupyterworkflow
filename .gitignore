@@ -102,3 +102,7 @@ ENV/
 
 # data
 Fremont.csv
+
+# exclude sratchpads
+Scratch.ipynb
+Unit Test.ipynb
